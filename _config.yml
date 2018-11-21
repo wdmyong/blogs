@@ -4,6 +4,10 @@ description: 记录：或身体、或脑子，旅行经历。
 
 github_username:  wdmyong
 
+# disqus config
+disqus:
+  shortname: wdmyong
+
 # Build settings
 markdown: kramdown
 theme: minima

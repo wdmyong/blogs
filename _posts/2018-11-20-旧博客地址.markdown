@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 旧博客地址
+comments: true
 ---
 
 
