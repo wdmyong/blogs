@@ -1,0 +1,23 @@
+---
+layout: post
+title: 简易版github个人博客搭建
+---
+
+#### github项目
+##### 1. 新建一个github空项目pro-name
+##### 2. 在settings里配置GitHub Pages
+##### 3. 这样就有一个默认的域名+项目名的url：可访问项目中index.html
+
+#### 配置jekyll
+##### 1. 把github项目拉取下来
+##### 2. 参考 **[jekyll安装运行](https://jekyllrb.com/docs/){:target="_blank"}** 安装
+```
+    2.1 可能需要先更新依赖的ruby等，自行google
+    2.2 设置完成后最后一步如果让覆盖项目中所有文件，因为是空项目，确定自己没加啥有用的覆盖就是了
+```
+##### 3. 参考**[jekyll默认模板](https://jekyllrb.com/docs/themes/){:target="_blank"}** 配置
+##### 4. 把第3步生成的目录啥的复制到你的项目下面
+
+#### 配置disqus
+##### 1. 不支持评论肯定是不行的，blog给人看的，看完有想法得提，需要支持下
+##### 2. 参考 **[disqus帮助文档](https://help.disqus.com/installation/whats-a-shortname){:target="_blank"}** 配置
