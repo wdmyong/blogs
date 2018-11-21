@@ -1,1 +1,11 @@
-theme: jekyll-theme-hacker
+title: wdmyong's personal blog
+email: dydm_13128@163.com
+description: 记录：或身体、或脑子，旅行经历。
+
+github_username:  wdmyong
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed

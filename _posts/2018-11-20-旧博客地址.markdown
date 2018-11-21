@@ -1,0 +1,11 @@
+---
+layout: page
+title: 旧博客地址
+---
+
+
+#### **[CSDN](https://blog.csdn.net/dydm_13128){:target="_blank"}**
+
+#### **[cnblogs](https://www.cnblogs.com/hawk-whu?__blank){:target="_blank"}**
+
+#### **[github](https://github.com/wdmyong?__blank){:target="_blank"}**
